@@ -23,7 +23,7 @@
 
 ## 기술 스택별 요구사항
 
-### 1. SpringBoot
+### 1. SpringBoot + Java
 
 - 빌드 도구는 gradle를 사용해주세요.
 - Spring data JPA를 사용해주세요.
